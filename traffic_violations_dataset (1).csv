@@ -1,0 +1,101 @@
+Date,Time,Location,Driver_Age,Vehicle_Type,Violation_Type,Fine_Amount
+2023-01-01,00:00:00,Broadway,38,Bus,Signal Jump,144
+2023-01-02,00:00:00,Main St,67,Bus,Speeding,300
+2023-01-03,00:00:00,Downtown,36,Truck,Signal Jump,280
+2023-01-04,00:00:00,Main St,28,Bus,Signal Jump,316
+2023-01-05,00:00:00,Main St,26,Bus,No Seatbelt,335
+2023-01-06,00:00:00,Downtown,34,Truck,Signal Jump,420
+2023-01-07,00:00:00,Broadway,69,Car,No Seatbelt,266
+2023-01-08,00:00:00,Broadway,50,Motorcycle,No Seatbelt,227
+2023-01-09,00:00:00,Main St,25,Truck,Parking,462
+2023-01-10,00:00:00,Downtown,31,Truck,Speeding,354
+2023-01-11,00:00:00,Highway 1,50,Motorcycle,No Seatbelt,264
+2023-01-12,00:00:00,Broadway,19,Motorcycle,Speeding,35
+2023-01-13,00:00:00,Highway 1,69,Bus,No Seatbelt,45
+2023-01-14,00:00:00,Downtown,57,Truck,Speeding,471
+2023-01-15,00:00:00,Highway 1,32,Motorcycle,Signal Jump,146
+2023-01-16,00:00:00,Broadway,21,Car,Signal Jump,106
+2023-01-17,00:00:00,Broadway,64,Bus,No Seatbelt,118
+2023-01-18,00:00:00,Highway 1,34,Car,No Seatbelt,254
+2023-01-19,00:00:00,Main St,53,Bus,No Seatbelt,484
+2023-01-20,00:00:00,Broadway,25,Motorcycle,Speeding,478
+2023-01-21,00:00:00,Highway 1,60,Motorcycle,No Seatbelt,342
+2023-01-22,00:00:00,Downtown,35,Truck,Speeding,64
+2023-01-23,00:00:00,Highway 1,38,Bus,Signal Jump,335
+2023-01-24,00:00:00,Downtown,52,Car,Speeding,355
+2023-01-25,00:00:00,Downtown,39,Truck,No Seatbelt,47
+2023-01-26,00:00:00,Main St,25,Truck,Signal Jump,494
+2023-01-27,00:00:00,Main St,63,Car,Signal Jump,192
+2023-01-28,00:00:00,Broadway,37,Bus,No Seatbelt,125
+2023-01-29,00:00:00,Downtown,39,Bus,Speeding,352
+2023-01-30,00:00:00,Downtown,24,Truck,Speeding,336
+2023-01-31,00:00:00,Downtown,60,Bus,Speeding,199
+2023-02-01,00:00:00,Downtown,51,Car,No Seatbelt,192
+2023-02-02,00:00:00,Main St,45,Car,Speeding,413
+2023-02-03,00:00:00,Downtown,56,Bus,No Seatbelt,339
+2023-02-04,00:00:00,Downtown,20,Car,Signal Jump,441
+2023-02-05,00:00:00,Broadway,39,Car,Signal Jump,215
+2023-02-06,00:00:00,Main St,38,Motorcycle,Signal Jump,260
+2023-02-07,00:00:00,Downtown,63,Truck,Speeding,291
+2023-02-08,00:00:00,Downtown,57,Car,No Seatbelt,281
+2023-02-09,00:00:00,Main St,30,Motorcycle,Signal Jump,100
+2023-02-10,00:00:00,Downtown,54,Truck,Parking,180
+2023-02-11,00:00:00,Main St,50,Bus,No Seatbelt,227
+2023-02-12,00:00:00,Downtown,59,Car,Signal Jump,476
+2023-02-13,00:00:00,Main St,33,Car,No Seatbelt,209
+2023-02-14,00:00:00,Downtown,66,Car,Signal Jump,309
+2023-02-15,00:00:00,Broadway,27,Car,Parking,31
+2023-02-16,00:00:00,Main St,63,Truck,Speeding,225
+2023-02-17,00:00:00,Highway 1,19,Motorcycle,No Seatbelt,397
+2023-02-18,00:00:00,Downtown,48,Car,Parking,470
+2023-02-19,00:00:00,Downtown,67,Bus,No Seatbelt,37
+2023-02-20,00:00:00,Highway 1,50,Bus,Signal Jump,328
+2023-02-21,00:00:00,Downtown,60,Truck,Parking,427
+2023-02-22,00:00:00,Main St,22,Motorcycle,Speeding,20
+2023-02-23,00:00:00,Broadway,68,Car,Parking,407
+2023-02-24,00:00:00,Downtown,20,Bus,Speeding,309
+2023-02-25,00:00:00,Downtown,66,Bus,No Seatbelt,113
+2023-02-26,00:00:00,Downtown,30,Bus,Speeding,216
+2023-02-27,00:00:00,Highway 1,53,Truck,No Seatbelt,302
+2023-02-28,00:00:00,Downtown,64,Car,Speeding,64
+2023-03-01,00:00:00,Main St,33,Motorcycle,No Seatbelt,245
+2023-03-02,00:00:00,Highway 1,37,Car,Parking,188
+2023-03-03,00:00:00,Broadway,52,Bus,Speeding,205
+2023-03-04,00:00:00,Highway 1,64,Motorcycle,Parking,298
+2023-03-05,00:00:00,Highway 1,57,Motorcycle,Parking,439
+2023-03-06,00:00:00,Broadway,33,Bus,No Seatbelt,475
+2023-03-07,00:00:00,Downtown,36,Bus,Speeding,85
+2023-03-08,00:00:00,Broadway,25,Motorcycle,Parking,408
+2023-03-09,00:00:00,Main St,59,Bus,Parking,265
+2023-03-10,00:00:00,Downtown,60,Bus,Speeding,446
+2023-03-11,00:00:00,Downtown,45,Bus,No Seatbelt,142
+2023-03-12,00:00:00,Highway 1,52,Motorcycle,Signal Jump,180
+2023-03-13,00:00:00,Broadway,49,Bus,Signal Jump,63
+2023-03-14,00:00:00,Downtown,18,Car,No Seatbelt,416
+2023-03-15,00:00:00,Highway 1,27,Car,Parking,103
+2023-03-16,00:00:00,Highway 1,26,Car,Speeding,138
+2023-03-17,00:00:00,Broadway,22,Car,No Seatbelt,353
+2023-03-18,00:00:00,Broadway,33,Car,Speeding,125
+2023-03-19,00:00:00,Highway 1,22,Car,No Seatbelt,231
+2023-03-20,00:00:00,Highway 1,25,Motorcycle,No Seatbelt,138
+2023-03-21,00:00:00,Highway 1,49,Bus,No Seatbelt,337
+2023-03-22,00:00:00,Broadway,25,Truck,Parking,112
+2023-03-23,00:00:00,Downtown,56,Motorcycle,Parking,115
+2023-03-24,00:00:00,Main St,48,Motorcycle,Signal Jump,306
+2023-03-25,00:00:00,Highway 1,28,Car,Parking,100
+2023-03-26,00:00:00,Downtown,40,Car,Parking,426
+2023-03-27,00:00:00,Downtown,36,Car,Signal Jump,22
+2023-03-28,00:00:00,Downtown,37,Motorcycle,Speeding,193
+2023-03-29,00:00:00,Main St,25,Motorcycle,No Seatbelt,301
+2023-03-30,00:00:00,Broadway,19,Truck,Parking,422
+2023-03-31,00:00:00,Broadway,44,Motorcycle,Speeding,368
+2023-04-01,00:00:00,Broadway,62,Truck,Signal Jump,413
+2023-04-02,00:00:00,Main St,23,Truck,Parking,444
+2023-04-03,00:00:00,Broadway,34,Bus,No Seatbelt,488
+2023-04-04,00:00:00,Highway 1,47,Bus,Speeding,237
+2023-04-05,00:00:00,Highway 1,54,Motorcycle,Parking,440
+2023-04-06,00:00:00,Main St,61,Motorcycle,Parking,142
+2023-04-07,00:00:00,Downtown,56,Truck,Speeding,267
+2023-04-08,00:00:00,Downtown,22,Motorcycle,Speeding,304
+2023-04-09,00:00:00,Broadway,34,Bus,Speeding,389
+2023-04-10,00:00:00,Broadway,36,Bus,Parking,376
